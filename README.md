@@ -1,7 +1,7 @@
 # Hacktoberfest 2020
 Hacktoberfest 2020 announcement website for KIIT FOSS/OSH community.
 
-## Licence
+## License
 
 [![CC BY 4.0][cc-by-shield]][cc-by]
 
